@@ -10,7 +10,8 @@
 - Test automation using Java with Selenium
 - API testing with Postman
 
-[![Ask me anything](https://camo.githubusercontent.com/a8b620de578ba63ed29db854d674d8e938aa54c037bda277642e30227a2b8133/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f41736b2532306d652d616e797468696e672d3161626339632e737667)](https://www.linkedin.com/in/ivana-petrushevska-385761224/)
+[![Ask me anything](https://img.shields.io/badge/Ask_me_anything-1abc9c.svg)](https://www.linkedin.com/in/ivana-petrushevska-385761224/)
+
 
 
 ## 💻 My Tech Stack:
