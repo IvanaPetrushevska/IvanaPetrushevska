@@ -16,8 +16,13 @@
 ## 💻 My Tech Stack:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,postman,selenium,idea,eclipse,testng,cypress,javascript,mocha,jenkins,cucumber" />
+  <a href="https://devicons.github.io/devicon/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testng/testng-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-original.svg" width="40" height="40"/>
   </a>
 </p>
 
