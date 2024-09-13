@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,postman,selenium,idea,eclipse,testNg,cypress,javascript,mochawesome,jenkins,cucumber,visualstudiocode" />
+    <img src="https://skillicons.dev/icons?i=java,postman,selenium,idea,eclipse,cypress,javascript,jenkins,cucumber" />
   </a>
 </p>
 
