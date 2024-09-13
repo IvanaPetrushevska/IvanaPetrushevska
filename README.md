@@ -5,9 +5,10 @@
 ## 👨💻 Experience and Expertise
 
 - Manual testing
-- Automation testing (Selenium, Java, TestNG)
+- Automation testing (Selenium, Java, TestNG, Cypress, JavaScript, Cucumber, Jenkins, Mocha)
 - Test case creation, execution, and defect reporting
-- Test automation using Java with Selenium
+- Test automation using Selenium with Java
+- Test automation using Cypress + frameworks
 - API testing with Postman
 
 [![Ask me anything](https://img.shields.io/badge/Ask_me_anything-1abc9c.svg)](https://www.linkedin.com/in/ivana-petrushevska-385761224/)
@@ -23,7 +24,7 @@
 </p>
 
 ## 🌱 Currently 
-- Dedicated to test automation using Java with Selenium 
+- Dedicated to test automation 
 - Expanding API testing knowledge with Postman
 
 ## 💞️ Looking to 
@@ -31,10 +32,12 @@
 - Junior QA position
 
 ## 🚀 Technical Proficiency
-- Programming Languages: Java
-- Testing Frameworks: TestNG
-- Automation Tools: Selenium, Postman
-- Test Management: Kiwi
+- **Programming Languages**: Java, JavaScript
+- **Testing Frameworks**: TestNG, Cucumber, Mocha
+- **Automation Tools**: Selenium, Postman, Cypress
+- **Test Management**: Kiwi
+- **CI/CD Tools**: Jenkins
+- **Database Management**:Sql
 
 ## 
 | 💪 Skills |
@@ -54,6 +57,8 @@
 - Selenium WebDriver with Java-Basics to Advanced + Frameworks
 - Postman: The Complete Guide - REST API Testing
 - Software Testing and Automation Specialization -Coursera, University of Minnesota
+- Cypress -Modern Automation Testing from Scratch + Frameworks
+
 
 
 ## 📫 How to reach me
