@@ -16,13 +16,8 @@
 ## 💻 My Tech Stack:
 
 <p align="center">
-  <a href="https://simpleicons.org/">
-    <img src="https://img.icons8.com/color/48/000000/testng.png" width="40" height="40" alt="TestNG"/>
-    <img src="https://img.icons8.com/color/48/000000/cypress.png" width="40" height="40" alt="Cypress"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt="JavaScript"/>
-    <img src="https://img.icons8.com/color/48/000000/mocha.png" width="40" height="40" alt="Mocha"/>
-    <img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40" height="40" alt="Jenkins"/>
-    <img src="https://img.icons8.com/color/48/000000/cucumber.png" width="40" height="40" alt="Cucumber"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,postman,selenium,idea,eclipse,testng,cypress,javascript,mocha,jenkins,cucumber,visual studio code" />
   </a>
 </p>
 
