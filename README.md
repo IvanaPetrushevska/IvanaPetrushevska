@@ -16,13 +16,13 @@
 ## 💻 My Tech Stack:
 
 <p align="center">
-  <a href="https://devicons.github.io/devicon/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/testng/testng-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cypress/cypress-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-original.svg" width="40" height="40"/>
+  <a href="https://simpleicons.org/">
+    <img src="https://img.icons8.com/color/48/000000/testng.png" width="40" height="40" alt="TestNG"/>
+    <img src="https://img.icons8.com/color/48/000000/cypress.png" width="40" height="40" alt="Cypress"/>
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" height="40" alt="JavaScript"/>
+    <img src="https://img.icons8.com/color/48/000000/mocha.png" width="40" height="40" alt="Mocha"/>
+    <img src="https://img.icons8.com/color/48/000000/jenkins.png" width="40" height="40" alt="Jenkins"/>
+    <img src="https://img.icons8.com/color/48/000000/cucumber.png" width="40" height="40" alt="Cucumber"/>
   </a>
 </p>
 
