@@ -20,7 +20,8 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,postman,selenium,idea,eclipse,cypress,javascript,jenkins,cucumber,JMeter" />
+    <img src="https://skillicons.dev/icons?i=java,postman,selenium,idea,eclipse,cypress,javascript,jenkins,cucumber,jmeter" />
+    <!-- Fallback for Mocha and TestNG -->
   </a>
 </p>
 
