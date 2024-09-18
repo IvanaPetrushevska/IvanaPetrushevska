@@ -9,6 +9,7 @@
 - Test case creation, execution, and defect reporting
 - Test automation using Selenium with Java
 - Test automation using Cypress + frameworks
+- Performance testing with JMeter
 - API testing with Postman
 
 [![Ask me anything](https://img.shields.io/badge/Ask_me_anything-1abc9c.svg)](https://www.linkedin.com/in/ivana-petrushevska-385761224/)
@@ -19,7 +20,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,postman,selenium,idea,eclipse,cypress,javascript,jenkins,cucumber,jmeter" />
+    <img src="https://skillicons.dev/icons?i=java,postman,selenium,idea,eclipse,cypress,javascript,jenkins,cucumber,JMeter" />
   </a>
 </p>
 
@@ -34,7 +35,7 @@
 ## 🚀 Technical Proficiency
 - **Programming Languages**: Java, JavaScript
 - **Testing Frameworks**: TestNG, Cucumber, Mocha
-- **Automation Tools**: Selenium, Postman, Cypress
+- **Automation Tools**: Selenium, Postman, Cypress, JMeter
 - **Test Management**: Kiwi
 - **CI/CD Tools**: Jenkins
 - **Database Management**:Sql
@@ -58,6 +59,8 @@
 - Postman: The Complete Guide - REST API Testing
 - Software Testing and Automation Specialization -Coursera, University of Minnesota
 - Cypress -Modern Automation Testing from Scratch + Frameworks
+- Learn JMETER from Scratch on Live Apps -Performance Testing
+
 
 
 
